@@ -12,7 +12,7 @@ Run `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/maste
 # Install iterm2
 brew cask install iterm2
 
-# Copy the common ZSH theme edited version that i edited to my suit.
-- Move file to /.oh-my-zsh/custom/themes
+# Download the edited* common ZSH theme
+- Download file to /.oh-my-zsh/custom/themes
 - vi ~/.zshrc
 - Change ZSH_THEME="common_profile_edited"
