@@ -10,7 +10,7 @@ Bash Profile for my Mac.
 Run `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
 # Install iterm2
-brew cask install iterm2
+`brew cask install iterm2`
 
 # Download the edited* common ZSH theme
 - Download file to `/.oh-my-zsh/custom/themes`
