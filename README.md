@@ -13,6 +13,7 @@ Run `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/maste
 brew cask install iterm2
 
 # Download the edited* common ZSH theme
-- Download file to /.oh-my-zsh/custom/themes
-- vi ~/.zshrc
-- Change ZSH_THEME="common_profile_edited"
+- Download file to `/.oh-my-zsh/custom/themes`
+- `curl -O https://raw.githubusercontent.com/zipzapzup/BashProfile/master/common_profile_edited.zsh_theme`
+- `vi ~/.zshrc`
+- Change `ZSH_THEME="common_profile_edited"`
